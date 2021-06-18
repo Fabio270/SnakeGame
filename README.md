@@ -1,0 +1,1 @@
+Esse é um jogo da cobrinha usando apenas Java, Html, e CSS feito para um projeto de um dos cursos da DIO (Digital Inovation One)
